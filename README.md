@@ -1,4 +1,4 @@
-# Health Risk Prediction App 🩺
+# Health Risk Prediction App 
 
 A machine learning project that predicts the likelihood of **Diabetes**, **Heart Disease**, and **Stroke** using structured healthcare data. Built with Python and scikit-learn, the app processes input features and trains separate models for each disease using classification algorithms like Random Forest and SVM.
 
